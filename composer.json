@@ -1,0 +1,19 @@
+{
+    "name": "webignition/is-http-status-code",
+    "description": "DSimple small library to check if a given number is an HTTP status code",
+    "homepage": "https://github.com/webignition/is-http-status-code",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jon Cram",
+            "email": "jon@webignition.net"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },     
+    "require": {
+        "php": ">=5.3.0"       
+    }   
+}
